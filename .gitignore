@@ -41,3 +41,7 @@ credentials.json
 
 # tf lock file
 .terraform.lock.hcl
+
+# pyenv shell directories
+pyenv shell*
+

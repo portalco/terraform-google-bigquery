@@ -24,7 +24,7 @@
         "type": "INTEGER"
       },
       {
-        "description": "Full Date of Visit",
+        "description": "Full Date of Visit.",
         "mode": "NULLABLE",
         "name": "fullDate",
         "type": "DATE"
